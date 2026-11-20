@@ -1,7 +1,7 @@
 # Endless Arena — Projektregeln
 
 Tiny grindy procedural infinite 3D auto-battler (Browser/Mobile).
-Live: https://danielzaiser91.github.io/endless-arena/
+Live: https://dernamenlosedaniel.github.io/endless-arena/
 Design (bindend): [implementation.md](implementation.md) · Agent-Startprompt: [AGENT_PROMPT.md](AGENT_PROMPT.md)
 
 **Status: Design-Phase — noch kein Spielcode.** Entwicklung startet erst mit AGENT_PROMPT.md.
