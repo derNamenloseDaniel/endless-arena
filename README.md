@@ -4,7 +4,7 @@ A tiny, grindy, procedural, **infinite 3D auto-battler** for browser & mobile.
 Watch your hero fight, loot better gear, unlock class paths and skill trees, push
 infinitely stronger enemies — and never, ever get stuck.
 
-**▶ Play: https://danielzaiser91.github.io/endless-arena/**
+**▶ Play: https://dernamenlosedaniel.github.io/endless-arena/**
 
 The full game design lives in [implementation.md](implementation.md).
 

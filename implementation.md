@@ -3,8 +3,8 @@
 A tiny, grindy, procedural, **infinite 3D auto-battler** for browser + mobile.
 You watch your hero fight, loot rains down, numbers go up — forever.
 
-Live: https://danielzaiser91.github.io/endless-arena/
-Repo: https://github.com/danielzaiser91/endless-arena
+Live: https://dernamenlosedaniel.github.io/endless-arena/
+Repo: https://github.com/derNamenloseDaniel/endless-arena
 
 ---
 
